@@ -1,0 +1,7 @@
+{
+    "username": "shreyansh",
+    "password": "shrey@123",
+    "host": "localhost",
+    "port": "5432",
+    "database": "carbon_cell_main"
+}
